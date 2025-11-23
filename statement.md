@@ -1,4 +1,4 @@
-Simple Food Ordering System
+imple Food Ordering System
 
 Problem Statement
 
